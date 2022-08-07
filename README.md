@@ -1,15 +1,17 @@
 # Hi, I'm Akmal!
+<!--
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+-->
 
-### I'm a co-creator and core maintainer of [Astro  🚀](https://github.com/snowpackjs/astro). You should [try it now](https://astro.new), in your browser!
+### I'm a full stack developer. Still new and doing my best to improve😄
 
-🎓 &nbsp;I'm currently juggling these [Udacity](https://imp.i115008.net/BXeWKW) courses and intend to complete them soon:
+🎓 &nbsp;I'm a computer science undergraduate.
 
 - [AWS Machine Learning Engineer Nanodegree](https://imp.i115008.net/VyRr4M)
 - [Cloud Architect using Microsoft Azure](https://imp.i115008.net/7mLA1y)
 
-🌱 &nbsp;I'm on track with learning more about MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
+📚 &nbsp;I'm currently learning on Docker, Power BI, ReactJS, NodeJS.\
+✍️ &nbsp;In my free time, I enjoy doing art and photography.\
 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
 ✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
 📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
@@ -44,8 +46,8 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepiyushmalhotra&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepiyushmalhotra&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akmal-hakim&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-hakim&theme=noctis_minimus&layout=compact" />
 </a>
 
 
