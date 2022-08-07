@@ -3,7 +3,7 @@
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 -->
 
-### I'm a full stack developer. Still new and doing my best to improve😄
+### Programmer. Still new and doing my best to improve😄
 
 🎓 &nbsp;I'm a computer science undergraduate. 
 📚 &nbsp;I'm currently learning on Docker, Power BI, ReactJS, NodeJS, Heroku and Flutter.\
