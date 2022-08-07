@@ -6,7 +6,6 @@
 ### I'm a full stack developer. Still new and doing my best to improve😄
 
 🎓 &nbsp;I'm a computer science undergraduate. 
-
 📚 &nbsp;I'm currently learning on Docker, Power BI, ReactJS, NodeJS, Heroku and Flutter.\
 ✍️ &nbsp;In my free time, I enjoy doing art and photography.\
 👨🏽‍💻 &nbsp;I'm a quick learner. I self-learn from Doc, Forum, GitHub, Stack Overflow and Youtube.\
