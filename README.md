@@ -42,7 +42,7 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/akmal-hakim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akmal-hakim&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-hakim&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-hakim&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
