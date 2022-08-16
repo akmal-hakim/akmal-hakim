@@ -43,7 +43,7 @@
 <a href="https://github.com/akmal-hakim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akmal-hakim&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-hakim&theme=noctis_minimus&layout=compact" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 
