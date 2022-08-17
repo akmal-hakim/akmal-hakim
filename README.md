@@ -52,7 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="55" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 
@@ -72,7 +72,7 @@
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/akmal-hakim">
+<a href="https://github.com/akmal-hakim" align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akmal-hakim&theme=noctis_minimus&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal-hakim&layout=compact&theme=noctis_minimus" />
 </a>
