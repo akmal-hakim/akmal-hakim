@@ -1,4 +1,4 @@
-# Hi, I'm Akmal! <a href="https://www.linkedin.com/in/muhd-akmal-hakim/"><img height="35" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+# Hi, I'm Akmal! <a href="https://www.linkedin.com/in/muhd-akmal-hakim/"><img height="35" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <img height="35" src="https://img.icons8.com/color/48/000000/malaysia.png"/>
 <!--
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 -->
