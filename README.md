@@ -1,4 +1,4 @@
-# Hi, I'm Akmal!
+# Hi, I'm Akmal! <a href = "https://www.linkedin.com/in/muhd-akmal-hakim/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!--
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 -->
@@ -79,13 +79,12 @@
   </a>
 </div>
 
----
-
+<!--
 ### Find me on Linkedin:
 <p align="left">
 <a href = "https://www.linkedin.com/in/muhd-akmal-hakim/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
-
+-->
 <!-- ### Hi there 👋 -->
 
 <!--
