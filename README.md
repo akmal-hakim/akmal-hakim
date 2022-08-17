@@ -79,6 +79,13 @@
   </a>
 </div>
 
+---
+
+### Find me on Linkedin:
+<p align="left">
+<a href = "https://www.linkedin.com/in/muhd-akmal-hakim/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
+
 <!-- ### Hi there 👋 -->
 
 <!--
